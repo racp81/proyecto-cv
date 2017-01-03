@@ -1,19 +1,36 @@
-Proyecto NextU, creaci�n de hoja de vida de Rub�n Cordero.
+Proyecto NextU, creación de hoja de vida de Rubén Cordero.
 
 Comprende:
 
-Paginas Index, Eduaci�n y Experiencia
+Paginas Index, Eduación y Experiencia
 
 Detalle:
 
-Diagrama una p�gina principal index.html tomando en cuenta las siguientes especificaciones:
+1) Diagrama una página principal index.html tomando en cuenta las siguientes especificaciones:
 
-    - Logo SVG: utiliza algunas de las herramientas SVG en l�nea para dise�ar el logo con tus iniciales, utiliza los colores y formas que prefieras.
-    - T�tulo: aqu� te sugerimos coloques el t�tulo de tu documento, "Hoja de Vida" o "Curriculum Vitae" o "Resumen Curricular". utilizando la etiqueta h1.
+    - Logo SVG: utiliza algunas de las herramientas SVG en línea para diseñar el logo con tus iniciales, utiliza los colores y formas que prefieras.
+    - Título: aquí te sugerimos coloques el título de tu documento, "Hoja de Vida" o "Curriculum Vitae" o "Resumen Curricular". utilizando la etiqueta h1.
     - Datos Personales: indica tus nombres, apellidos, fecha y lugar de nacimiento utilizando las etiquetas h2 y h3.
-    - Enlaces de men� b�sico para enlazar las tres p�ginas que tiene tu proyecto: Inicio (index.html), educaci�n (educacion.html), experiencia (experiencia.html).
-    - Incorpora un t�tulo en h2 Informaci�n Personal y agrega una Foto de tu preferencia acorde con tu hoja de vida.
-    - Perfil: redacta un parr�fo y describe habilidades y destrezas que te definen como un exitoso profesional en tu �rea de conocimiento y agrega una lista no numerada (vi�etas) con los idiomas que comprendes, hablas y escribes.
-    - Pie de P�gina: en esta secci�n debes colocar informaci�n de contacto como: correo el�ctr�nico, tel�fono, redes sociales o direcci�n.
+    - Enlaces de menú básico para enlazar las tres páginas que tiene tu proyecto: Inicio (index.html), educación (educacion.html), experiencia (experiencia.html).
+    - Incorpora un título en h2 Información Personal y agrega una Foto de tu preferencia acorde con tu hoja de vida.
+    - Perfil: redacta un parráfo y describe habilidades y destrezas que te definen como un exitoso profesional en tu área de conocimiento y agrega una lista no numerada (viñetas) con los idiomas que comprendes, hablas y escribes.
+    - Pie de Página: en esta sección debes colocar información de contacto como: correo eléctrónico, teléfono, redes sociales o dirección.
+
+
+2) Diagrama la página educacion.html tomando en cuenta las siguientes especificaciones:
+
+- Logo SVG utiliza algunas de las herramientas SVG en línea para diseñar el logo con tus iniciales, utiliza los colores y formas que prefieras.
+- Título aquí te sugerimos coloques el título de tu documento, "Hoja de Vida" o "Curriculum Vitae" o "Resumen Curricular". utilizando la etiqueta h1.
+- Datos Personales indica tus nombres, apellidos, fecha y lugar de nacimiento utilizando las etiquetas h2 y h3.
+- Enlaces de menú básico para enlazar las tres páginas que tiene tu proyecto: Inicio (index.html), educación (educacion.html), experiencia (experiencia.html).
+- Incorpora un título en h2 Educación.
+- Codifica una Tabla de 4 columnas (Año, Institución, Lugar, ¿Culminó?) por 3 filas (o más si deseas) para indicar los datos sobre tus certificados, cursos, título, entre otros.
+- Dibuja un Formulario titulado "Agregar Estudios" con los siguientes elementos:
+        Una lista desplegable para el Año.
+        Una caja de entrada de texto para Institución, agrega la validación de campo requerido.
+        Una caja de entrada de texto largo para Lugar.
+        Un radio button para las alternativas de ¿Culminó?.
+        Un botón "Enviar". 
+- Pie de Página en esta sección debes colocar información de contacto como: correo eléctrónico, teléfono, redes sociales o dirección.
 
 
